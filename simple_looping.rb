@@ -13,7 +13,7 @@ counter = 1
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
   loop do
-    print phrase
+    puts phrase
     counter +=1
     break if counter > number_of_times
   end
